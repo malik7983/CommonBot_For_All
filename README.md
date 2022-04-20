@@ -32,6 +32,9 @@
 <a href="https://t.me/tmmainchannel"><img src="https://img.shields.io/badge/Join-Main%20Channel-green.svg?style=for-the-badge&logo=Telegram">
 <a href="https://t.me/technomindzchat"><img src="https://img.shields.io/badge/Join-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram">
 
+## MODAL ROBOT
+ * [<i><b>@TMElsaRobot</i></b>](https://t.me/tmelsarobot)
+  
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
 * `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
