@@ -1,4 +1,4 @@
-<h2 align="centre"><i><b>💖TECHNO MINDZ💝</i></b></h2>
+<h2 align="centre"><i><b>💖TECHNO MINDZ BOT-1💝</i></b></h2>
 
 
 
