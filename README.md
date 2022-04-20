@@ -14,7 +14,7 @@
 
 ## IF YOU NEED ANY ASSISTANCE FEEL FREE TO CONTACT
 ## YOUTUBE  [SUPPORT_CHANNEL](https://t.me/technomindzchat)
-## Contact [OWNER](https://t.me/technomindzyt)
+## Contact [<i>RAVI</i>](https://t.me/technomindzyt)
 
 ## DEPLOY
 
@@ -87,21 +87,7 @@
 * [RAVINANDAN](https://t.me/TechnoMINDZYT)
 ## Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
-
-## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://telegram.dog/technomindzchat)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/Tmmainchannel)
-
-
-
-
 ## Thanks to 
 
  - Thanks To [Ravinandan](https://github.com/TechnoMindz) for Their Awesome [Unlimited Filter Bot](https://github.com/TechnoMindz/CommonBot_For_All) And [AutoFilterBoT](https://github.com/TechnoMindz/CommonBot_For_All)
  - Thanks To All Of My Subscribers😊
-
-
-
-
-
-
