@@ -76,14 +76,7 @@
 ## CUSTOM FILE CAPTION
 ```
 <code>{file_name}</code>
-🤭 𝗔𝗟𝗟 𝗠𝗢𝗩𝗜𝗘𝗦 𝗛𝗘𝗥𝗘 🥱
-
-<a href="https://t.me/tmmainchannel">1☞𝙅𝙤𝙞𝙣 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 𝘾𝙝𝙖𝙣𝙣𝙚𝙡</a>
-
-<a href="https://t.me/technomoviescollection">2☞ 𝙅𝙤𝙞𝙣 𝙈𝙤𝙫𝙞𝙚𝙨 𝙂𝙧𝙤𝙪𝙥</a>
-
-<a href="https://t.me/technomindzchat">3☞ 𝙅𝙤𝙞𝙣 𝘾𝙝𝙖𝙩𝙩𝙞𝙣𝙜 𝙂𝙧𝙤𝙪𝙥</a>
-
+  
 ```
 ## CREATED BY
  
