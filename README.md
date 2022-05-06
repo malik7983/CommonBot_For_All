@@ -4,7 +4,7 @@
 
 <p align="center"><a href="https://t.me/technomindzchat"><img src="https://telegra.ph/file/b417bdd01331179d5787c.jpg" width="500"></a></p>
 
-## Introduction
+# Introduction
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Techno+Mindz!;Created+by+RAVINANDAN!;A+simple+and+a+basic+Bot!;A+Advanced+AutoFilter+Bot;Don't+Forget+To+Subcribe;Techno+Mindz+in+YouTube;)
 </p>
@@ -22,6 +22,15 @@
 <p>
 <br>
 <a href="https://heroku.com/deploy?template=https://github.com/TechnoMindz/CommonBot_For_All">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+  
+<details><summary>Deploy From Bot</summary>
+<p>
+<br>
+<a href="https://telegram.dog/XTZ_HerokuBot?start=VGVjaG5vTWluZHovQ29tbW9uQm90X0Zvcl9BbGwgbWFzdGVy">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -44,6 +53,7 @@
 * `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `DATABASE_NAME`: Name of the database in MongoDb Cluster0
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
+  
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
   
@@ -80,10 +90,10 @@
 ```
 ## CREATED BY
  
-* [RAVINANDAN](https://t.me/TechnoMINDZYT)
+* [꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂](https://t.me/TechnoMINDZYT)
 ## Selling The Codes To Other People For Money Is *Strictly Prohibited*.
 
 ## Thanks to 
 
- - Thanks To [Ravinandan](https://github.com/TechnoMindz) for Their Awesome [Unlimited Filter Bot](https://github.com/TechnoMindz/CommonBot_For_All) And [AutoFilterBoT](https://github.com/TechnoMindz/CommonBot_For_All)
+ - Thanks To [꧁𓊈𒆜🆁🅰🆅🅸🅽🅰🅽🅳🅰🅽𒆜𓊉꧂](https://github.com/TechnoMindz) for Their Awesome [Unlimited Filter Bot](https://github.com/TechnoMindz/CommonBot_For_All) And [AutoFilterBoT](https://github.com/TechnoMindz/CommonBot_For_All)
  - Thanks To All Of My Subscribers😊
